@@ -7,9 +7,10 @@ import GifListContainer from '../containers/GifListContainer';
 // the App component should render out the GifListContainer component
 
 
-   function App() {
-  return (
+  const App = () => {
     
+  return (
+
 
     <div>
         <NavBar />
